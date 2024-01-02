@@ -20,7 +20,7 @@
       <link>https://dozz-m.github.io/posts/projects/accurate-single-ended-fault-location-for-cable-ohl-hybrid-transmission-lines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dozz-m.github.io/posts/projects/accurate-single-ended-fault-location-for-cable-ohl-hybrid-transmission-lines/</guid>
-      <description>Motivation Transmission lines consist of overhead lines (OHLs) and underground cables, as underground cables, are what we called Hybrid Transmission Lines, who are widely used adopted connecting sources (e.g. offshore wind turbines) or consumers at sea.
+      <description>Transmission lines consist of overhead lines (OHLs) and underground cables, as underground cables, are what we called Hybrid Transmission Lines, who are widely used adopted connecting sources (e.g. offshore wind turbines) or consumers at sea.
 Single-ended methods, which are more attractive to field engineers, need only one end of measurement and need no expensive synchronized and communication between two ends via satellites. However, existing methods fail to fully consider distributed line parameters, bringing errors to the fault location.</description>
     </item>
     <item>
@@ -28,7 +28,14 @@ Single-ended methods, which are more attractive to field engineers, need only on
       <link>https://dozz-m.github.io/posts/projects/b-controller_dynamic_gain_controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dozz-m.github.io/posts/projects/b-controller_dynamic_gain_controller/</guid>
-      <description>Motivation A controller, essentially a mapping from current known information to next time output, utilizes system state be it to observer or measured and user input to make decisions. However, relying solely on a constant gain for this mapping seems to be not optimal. For example, a big control gain means small steady state error and fast responses to control system, but has bigger overshoot and make actuator easier to saturation, while small gain implies big steady state error, slow response, even though it fix problem of saturation and overshoot.</description>
+      <description>A controller, essentially a mapping from current known information to next time output, utilizes system state be it to observer or measured and user input to make decisions. However, relying solely on a constant gain for this mapping seems to be not optimal. For example, a big control gain means small steady state error and fast responses to control system, but has bigger overshoot and make actuator easier to saturation, while small gain implies big steady state error, slow response, even though it fix problem of saturation and overshoot.</description>
+    </item>
+    <item>
+      <title>Cury: Mechanical Design and Control</title>
+      <link>https://dozz-m.github.io/posts/projects/cury_leg_mechanical_design_and_control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dozz-m.github.io/posts/projects/cury_leg_mechanical_design_and_control/</guid>
+      <description>Cury represents a novel approach to humanoid leg design, prioritizing a simplified quasi-direct-drive(QDD) architecture. Thanks to property of reverse driving, Cury can eliminate redundant sensors, such as the encoder inside the motor, not only minimizes bipedal robot construction costs but also alleviates communication burdens within the system. Four-bar and related mechanical optimization whether it&amp;rsquo;s traditional manufacturing processes or popular additive manufacturing are also made in this project. Further contributing to this streamlined design philosophy is the integration of a four-in-one motor driver.</description>
     </item>
   </channel>
 </rss>
