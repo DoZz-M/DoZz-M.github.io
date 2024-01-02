@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects&amp;Reseaches on Zhongtao&#39;s Site</title>
+    <title>Projects &amp; Reseaches on Zhongtao&#39;s Site</title>
     <link>https://dozz-m.github.io/posts/projects/</link>
-    <description>Recent content in Projects&amp;Reseaches on Zhongtao&#39;s Site</description>
+    <description>Recent content in Projects &amp; Reseaches on Zhongtao&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://dozz-m.github.io/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://dozz-m.github.io/posts/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming soon !</title>
-      <link>https://dozz-m.github.io/posts/projects/national-undergraduate-electronic-design-contest/</link>
+      <title>Accurate Single-Ended Fault Location for Cable-OHL Hybrid Transmission Lines</title>
+      <link>https://dozz-m.github.io/posts/projects/accurate-single-ended-fault-location-for-cable-ohl-hybrid-transmission-lines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dozz-m.github.io/posts/projects/national-undergraduate-electronic-design-contest/</guid>
-      <description></description>
+      <guid>https://dozz-m.github.io/posts/projects/accurate-single-ended-fault-location-for-cable-ohl-hybrid-transmission-lines/</guid>
+      <description>Motivation Transmission lines consist of overhead lines (OHLs) and underground cables, as underground cables, are what we called Hybrid Transmission Lines, who are widely used adopted connecting sources (e.g. offshore wind turbines) or consumers at sea.
+Single-ended methods, which are more attractive to field engineers, need only one end of measurement and need no expensive synchronized and communication between two ends via satellites. However, existing methods fail to fully consider distributed line parameters, bringing errors to the fault location.</description>
     </item>
-    
+    <item>
+      <title>B-Control: parameter line based dynamic gain controller</title>
+      <link>https://dozz-m.github.io/posts/projects/b-controller_dynamic_gain_controller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dozz-m.github.io/posts/projects/b-controller_dynamic_gain_controller/</guid>
+      <description>Motivation A controller, essentially a mapping from current known information to next time output, utilizes system state be it to observer or measured and user input to make decisions. However, relying solely on a constant gain for this mapping seems to be not optimal. For example, a big control gain means small steady state error and fast responses to control system, but has bigger overshoot and make actuator easier to saturation, while small gain implies big steady state error, slow response, even though it fix problem of saturation and overshoot.</description>
+    </item>
   </channel>
 </rss>

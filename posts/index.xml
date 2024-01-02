@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zhongtao&#39;s Site</title>
     <link>https://dozz-m.github.io/posts/</link>
     <description>Recent content in Posts on Zhongtao&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dozz-m.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dozz-m.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://dozz-m.github.io/posts/about/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://dozz-m.github.io/posts/about/</guid>
-      <description>I’m currently 🎓 Undergraduate at ShanghaiTech University, majoring in Electronic Information Engineering. 🎯Aim at bringing reliable and helpful humanoid machines into everyday life. 🌱 Interested in control &amp;amp; design of bipedal robot and animatronic robotic face. Experience Motor and Motion-Control Lab (8.2023–Present) Mentor: Prof. Chen Jiahao Design and Control of bipedal robot for more nurture gait. Design and control of animatronic robotic face makes it more close to human beings. Power System Protection &amp;amp; Automation Laboratory(6.</description>
+      <description>I’m currently 🎓 Undergraduate at ShanghaiTech University, majoring in Electronic Information Engineering. 🎯Aim at bringing reliable and helpful humanoid into daily life. 🌱 Interested in control &amp;amp; design of bipedal robot and animatronic robotic face. Experience Motor and Motion-Control Lab (8.2023–Present) Mentor: Prof. Chen Jiahao Mechanical Design and Control for quasi-direct-drive bipedal robot.. Nonlinear B-controller: design and optimization for dynamical gain controller. Power System Protection &amp;amp; Automation Laboratory(6.2022-8.2023) Mentor: Prof. Liu Yu Using single-ended measurement to locate faults on the mixed-transmission line.</description>
     </item>
-    
   </channel>
 </rss>
