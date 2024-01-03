@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects &amp; Reseraches on Zhongtao&#39;s Site</title>
+    <title>Projects &amp; Researches on Zhongtao&#39;s Site</title>
     <link>https://dozz-m.github.io/posts/projects/</link>
-    <description>Recent content in Projects &amp; Reseraches on Zhongtao&#39;s Site</description>
+    <description>Recent content in Projects &amp; Researches on Zhongtao&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://dozz-m.github.io/posts/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
 Single-ended methods, which are more attractive to field engineers, need only one end of measurement and need no expensive synchronized and communication between two ends via satellites. However, existing methods fail to fully consider distributed line parameters, bringing errors to the fault location.</description>
     </item>
     <item>
-      <title>B-Control: parameter line based dynamic gain controller</title>
+      <title>B-Controller: parameter line based dynamic gain controller</title>
       <link>https://dozz-m.github.io/posts/projects/b-controller_dynamic_gain_controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dozz-m.github.io/posts/projects/b-controller_dynamic_gain_controller/</guid>
